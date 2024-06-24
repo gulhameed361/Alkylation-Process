@@ -2,6 +2,9 @@
 """
 Created on Fri Jun 21 17:55:45 2024
 
+Details of the process can be found in the following book.
+Biegler, L.T., 2010. Nonlinear programming: concepts, algorithms, and applications to chemical processes. Society for Industrial and Applied Mathematics.
+
 @author: gh00616
 """
 
