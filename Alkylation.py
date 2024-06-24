@@ -60,6 +60,7 @@ print(f'Optimal Profit: {(0.063 * m.x[3].value * m.x[6].value) - (5.04 * m.x[0].
 print(f'Olefin feed, x1: {m.x[0].value}')
 print(f'Fresh Acid feed, x3: {m.x[2].value}')
 print(f'Isobutane feed, x5: {m.x[4].value}')
+print(f'Isobutane recycle, x2: {m.x[1].value}')
 print(f'Alkylate field yield, x4: {m.x[3].value}')
 print(f'External isobutane to olefin ratio, x8: {m.x[7].value}')
 print(f'Motor octane number of the alkylate, x7: {m.x[6].value}')
